@@ -78,6 +78,7 @@ body {
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
+  
 }
 
 nav {
@@ -94,6 +95,8 @@ nav {
   align-items: center;
   justify-content: space-between;
   background-color: var(--primary-color);
+  /* by me */
+  /* position: fixed; */
 }
 
 .nav__logo img {
@@ -137,6 +140,7 @@ nav {
   white-space: nowrap;
   color: var(--white);
   transition: 0.3s;
+  /* position: fixed; */
 }
 
 .nav__links a:hover {
